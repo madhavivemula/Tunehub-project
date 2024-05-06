@@ -1,0 +1,27 @@
+body{
+	 background-image: url('login-img.jpg1.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%; 
+    text-align:center;
+    margin:10px;
+    margin-left:30%;
+    margin-top:10%;
+    margin-right:30%
+ }
+ form{
+	 width: 350px;
+	 height:200px;
+	 /*background-color:white;
+	 flex-direction:column;
+	 text-align:center; */
+	 color:white;
+	 border-color: red;  
+     border-width: 5px;  
+     border-style: inset;
+  
+  
+} 
+h2{
+	color:white;
+}

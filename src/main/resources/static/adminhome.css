@@ -1,0 +1,32 @@
+body{
+	 background-image: url('img3.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:100% 100%; 
+     text-align:center;
+     margin:10px;
+    margin-left:30%;
+    margin-top:10%;
+    margin-right:30%
+
+}
+.form1{
+	 width: 350px;
+	 height:350px;
+	
+	 border-color: white;  
+     border-width: 5px;  
+     border-style: inset;
+  
+  
+} 
+input[type="submit"] {
+  padding: 10px 20px; /* Add padding to the button */
+  border: none; 
+  background-color: #000000; 
+  color: #fff; 
+  font-size: 16px; 
+  cursor: pointer; 
+  border-radius: 5px; 
+  transition: background-color 0.3s;
+}
